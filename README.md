@@ -5,6 +5,19 @@
 <table align="center" width="100%" style="border-collapse: collapse;">
   <tr>
     <td style="border: 2px solid #eaeaea; border-radius: 8px; padding: 16px;" align="center">
+      <h3>✨ <a href="https://github.com/dawsonhuang0/shDoc">shDoc</a></h3>
+      <p>
+        <b>JSDoc-style autocomplete and hover docs</b> for shell scripts.<br/>
+        💡 84+ JSDoc tags • Symbol tracking • <b>Hover intelligence</b>.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr><td style="height: 8px;"></td></tr> <tr>
+    <td style="border: 2px solid #eaeaea; border-radius: 8px; padding: 16px;" align="center">
       <h3>🎮 <a href="https://www.npmjs.com/package/less-pager-mini">Less-Pager-Mini</a></h3>
       <p>
         A <b>blazing-fast CLI pager</b> inspired by Unix <code>less</code>.<br/>
@@ -16,22 +29,7 @@
       </p>
     </td>
   </tr>
-  <tr><td style="height: 8px;"></td></tr> <!-- Spacer row -->
-  <tr>
-    <td style="border: 2px solid #eaeaea; border-radius: 8px; padding: 16px;" align="center">
-      <h3>🔡 <a href="https://www.npmjs.com/package/wcwidth-o1">wcwidth-o1</a></h3>
-      <p>
-        <b>glibc-based POSIX wcwidth/wcswidth</b> for Node.js & TypeScript.<br/>
-        🧮 Built from glibc tables • O(1) Unicode width lookup • Zero dependencies.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/C%20Programming%20Language-00599C?style=flat-square"/>
-        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
 </table>
-
 
 <h1 align="center">Hi👋I'm Dawson</h1>
 <h3 align="center">Computer Science Student @ <a href="https://www.unsw.edu.au">UNSW</a></h3>
