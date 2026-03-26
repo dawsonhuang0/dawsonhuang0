@@ -5,7 +5,7 @@
 <table align="center" width="100%" style="border-collapse: collapse;">
   <tr>
     <td style="border: 2px solid #eaeaea; border-radius: 8px; padding: 16px;" align="center">
-      <h3>✨ <a href="https://github.com/dawsonhuang0/shDoc">shDoc</a></h3>
+      <h3>✨ <a href="https://marketplace.visualstudio.com/items?itemName=DawsonHuang.shdoc">shDoc</a></h3>
       <p>
         <b>JSDoc-style autocomplete and hover docs</b> for shell scripts.<br/>
         💡 84+ JSDoc tags • Symbol tracking • <b>Hover intelligence</b>.
